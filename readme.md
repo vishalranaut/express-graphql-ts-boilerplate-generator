@@ -21,7 +21,7 @@ npm install express-graphql-typescript-boilerplate
 1.**Initialize a new project:**
 
 ```bash
-npx express-graphql-typescript-boilerplate init my-new-project
+npx express-graphql-typescript-boilerplate my-new-project
 cd my-new-project
 ```
 
