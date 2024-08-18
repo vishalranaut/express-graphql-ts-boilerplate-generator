@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "create-nestjs-api-boilerplate": "./dist/index.js"
+    "create-express-graphql-typescript-boilerplate": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc"
@@ -13,11 +13,7 @@
     "url": "git+https://github.com/vishalranaut/express-graphql-typescript-boilerplate.git"
   },
   "keywords": [
-    "nestjs",
-    "jwt",
-    "mysql",
-    "swagger",
-    "docker",
+    "graphql",
     "boilerplate",
     "typescript",
     "nodejs",
@@ -31,7 +27,6 @@
   "homepage": "https://github.com/vishalranaut/express-graphql-typescript-boilerplate#readme",
   "devDependencies": {
     "@types/node": "^22.4.0",
-    "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   }
 }
