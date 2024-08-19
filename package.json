@@ -1,6 +1,6 @@
 {
   "name": "express-graphql-typescript-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "create-express-graphql-typescript-boilerplate": "./dist/index.js"
